@@ -22,7 +22,11 @@ Jakarta, Indonesia
   <a href="https://linkedin.com/in/rafif-farras" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Raphcel" target="_blank">
+  </a> 
+  <a href="https://instagram.com/rafif.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
+  </a>
+    <a href="https://github.com/Raphcel" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
