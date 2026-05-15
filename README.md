@@ -4,7 +4,7 @@
   <!-- <img src="./banner.jpg" alt="banner" /> -->
 </p>
 
-<h2 align="center">Hi, I'm Rafif Farras</h2>
+<h2 align="center">Hi, I'm Rafif Muhammad Farras</h2>
 
 <h4 align="center">
 Computer Science student • Full-stack developer • AI-enthusiast<br/>
